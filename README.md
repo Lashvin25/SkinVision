@@ -1,8 +1,10 @@
-Artificial Intelligence Powered Precision in Skin Cancer Detection using Convolutional Neural Network
+# Dart Programming, Flutter framework 
+
+# Artificial Intelligence Powered Precision in Skin Cancer Detection using Convolutional Neural Network
 
 In modern healthcare, artificial intelligence (AI) is transforming dermatology by enabling early and precise skin cancer diagnosis. This project leverages AI to differentiate benign and malignant skin lesions from images, enhancing diagnostic accuracy and accessibility, and supporting proactive patient care.
 
-Objective
+## Objective
 - Develop an Mobile Application for skin lesion image analysis
 - CNN model that differentiates various type of skin lesions
 - To promote the early diagnosis of skin cancer by accurately classifying each detected lesion
@@ -17,4 +19,3 @@ Objective
 <br>
 
 
-Dart Programming, Flutter framework 
